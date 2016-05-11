@@ -24,6 +24,7 @@ public class Projecz2 {
 
     /**
      * @param args the command line arguments
+     * * @author vlastimil.petera
      */
     public static void main(String[] args) {
         // TODO code application logic here
