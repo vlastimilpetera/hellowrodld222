@@ -8,6 +8,17 @@ package projecz2;
 /**
  *
  * @author vlastimil.petera
+ *  *
+ * @author vlastimil.petera
+ *  *
+ * @author vlastimil.petera
+ *  *
+ * @author vlastimil.petera
+ *  *
+ * @author vlastimil.petera *
+ * @author vlastimil.petera
+ * 
+ * 
  */
 public class Projecz2 {
 
